@@ -19,3 +19,7 @@ This repository archives everyday Duan Zis (jokes).
 > “这里是干啥用的……”“创新中心吧。”
 >
 > “哇，这里好高端的样子。”“是不是创新中心呢……”
+
+## 素质三联
+
+> ![素质三联](diathesisdiathesisdiathesis.png)
