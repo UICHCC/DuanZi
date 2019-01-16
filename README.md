@@ -23,3 +23,6 @@ This repository archives everyday Duan Zis (jokes).
 ## 素质三联
 
 > ![素质三联](diathesisdiathesisdiathesis.png)
+
+## 借钱
+> 用农行的钱盖新小镇 0 期工程，用交行的钱盖新小镇 1 期工程 + 还农行的钱。现在工行又来 HALL 开年会.... emmmm 
